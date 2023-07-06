@@ -6,7 +6,8 @@
 [Информатика](https://github.com/mireashik/inf_1sem)
 <br>
 [Введение в профессиональную деятельность](https://github.com/mireashik/prof)
-
+<br>
+[История](https://github.com/mireashik/history)
 
 <!--
 **mireashik/mireashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
