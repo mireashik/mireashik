@@ -5,13 +5,13 @@
 <br>
 [Линейная алгебра](https://github.com/mireashik/algebra_1sem)
 <br>
-[Процедурное программирование](https://github.com/mireashik/prog_1sem)
-<br>
 [Информатика](https://github.com/mireashik/inf_1sem)
 <br>
-[Введение в профессиональную деятельность](https://github.com/mireashik/prof)
+[Процедурное программирование](https://github.com/mireashik/prog_1sem)
 <br>
 [История](https://github.com/mireashik/history)
+<br>
+[Введение в профессиональную деятельность](https://github.com/mireashik/prof)
 
 ## 2 семестр
 [Математический анализ (мат. анализ)](https://github.com/mireashik/matanalyz_2sem)
