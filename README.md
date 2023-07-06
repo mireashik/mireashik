@@ -1,4 +1,4 @@
-### Hi there 👋
+### Здесь собраны полезные материалы по РТУ МИРЭА (домашка, курсовые, задания, экзамены) 👋
 
 <!--
 **mireashik/mireashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
