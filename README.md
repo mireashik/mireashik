@@ -3,6 +3,9 @@
 [Процедурное программирование, 1 семестр, РТУ МИРЭА](https://github.com/mireashik/prog_1sem)
 <br>
 [Информатика, 1 семестр, РТУ МИРЭА](https://github.com/mireashik/inf_1sem)
+<br>
+[Введение в профессиональную деятельность, 1 семестр, РТУ МИРЭА](https://github.com/mireashik/prof)
+
 
 <!--
 **mireashik/mireashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
