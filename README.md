@@ -20,11 +20,11 @@
 <br>
 [Математическая логика и теория алгоритмов / автоматов (мат. логика)](https://github.com/mireashik/mathlogic_2sem)
 <br>
+[Объектно-ориентированное программирование (ООП / Аврора)](https://github.com/mireashik/oop_2sem)
+<br>
 [Искусственный интеллект (ИИ)](https://github.com/mireashik/II_2sem)
 <br>
 [Начертательная геометрия и инженерная графика (черчение)](https://github.com/mireashik/drafting_2sem)
-<br>
-[Объектно-ориентированное программирование (ООП / Аврора)](https://github.com/mireashik/oop_2sem)
 
 <!--
 **mireashik/mireashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
