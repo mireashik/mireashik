@@ -18,7 +18,7 @@
 <br>
 [Линейная алгебра](https://github.com/mireashik/algebra_2sem)
 <br>
-[Искусственный интеллект](https://github.com/mireashik/II_2sem)
+[Искусственный интеллект (ИИ)](https://github.com/mireashik/II_2sem)
 <br>
 [Начертательная геометрия и инженерная графика (черчение)](https://github.com/mireashik/drafting_2sem)
 <br>
