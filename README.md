@@ -9,6 +9,8 @@
 <br>
 [История](https://github.com/mireashik/history)
 
+## 2 семестр
+
 <!--
 **mireashik/mireashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
