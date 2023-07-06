@@ -24,7 +24,7 @@
 <br>
 [Объектно-ориентированное программирование (ООП / Аврора)](https://github.com/mireashik/oop_2sem)
 <br>
-[Математическая логика и теория алгоритмов (автоматов)](https://github.com/mireashik/mathlogic_2sem)
+[Математическая логика и теория алгоритмов / автоматов (мат. логика)](https://github.com/mireashik/mathlogic_2sem)
 
 <!--
 **mireashik/mireashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
