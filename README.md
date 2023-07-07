@@ -13,6 +13,8 @@
 <br>
 [История](https://github.com/mireashik/history)
 <br>
+[Иностранный язык](https://github.com/mireashik/english_1sem)
+<br>
 [Введение в профессиональную деятельность](https://github.com/mireashik/prof)
 
 ## 2 семестр
