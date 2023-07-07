@@ -9,6 +9,8 @@
 <br>
 [Процедурное программирование](https://github.com/mireashik/prog_1sem)
 <br>
+[Физика](https://github.com/mireashik/fizika_1sem)
+<br>
 [История](https://github.com/mireashik/history)
 <br>
 [Введение в профессиональную деятельность](https://github.com/mireashik/prof)
