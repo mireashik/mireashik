@@ -3,7 +3,7 @@
 ## 1 семестр
 [Математический анализ (мат. анализ)](https://github.com/mireashik/matanalyz_1sem)
 <br>
-[Линейная алгебра](https://github.com/mireashik/algebra_1sem)
+[Линейная алгебра и аналитическая геометрия](https://github.com/mireashik/algebra_1sem)
 <br>
 [Информатика](https://github.com/mireashik/inf_1sem)
 <br>
@@ -16,7 +16,7 @@
 ## 2 семестр
 [Математический анализ (мат. анализ)](https://github.com/mireashik/matanalyz_2sem)
 <br>
-[Линейная алгебра](https://github.com/mireashik/algebra_2sem)
+[Линейная алгебра и аналитическая геометрия](https://github.com/mireashik/algebra_2sem)
 <br>
 [Математическая логика и теория алгоритмов / автоматов (мат. логика)](https://github.com/mireashik/mathlogic_2sem)
 <br>
