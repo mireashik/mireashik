@@ -13,7 +13,7 @@
 <br>
 [История](https://github.com/mireashik/history)
 <br>
-[Иностранный язык](https://github.com/mireashik/english_1sem)
+[Иностранный язык (английский)](https://github.com/mireashik/english_1sem)
 <br>
 [Введение в профессиональную деятельность](https://github.com/mireashik/prof)
 
@@ -27,6 +27,8 @@
 [Объектно-ориентированное программирование (ООП / Аврора)](https://github.com/mireashik/oop_2sem)
 <br>
 [Искусственный интеллект (ИИ)](https://github.com/mireashik/II_2sem)
+<br>
+[Иностранный язык (английский)](https://github.com/mireashik/english_2sem)
 <br>
 [Начертательная геометрия, инженерная и компьютерная графика (черчение)](https://github.com/mireashik/drafting_2sem)
 
