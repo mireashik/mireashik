@@ -30,6 +30,8 @@
 <br>
 [Иностранный язык (английский)](https://github.com/mireashik/english_2sem)
 <br>
+[Русский язык](https://github.com/githubcommits/rus_2sem)
+<br>
 [Начертательная геометрия, инженерная и компьютерная графика (черчение)](https://github.com/mireashik/drafting_2sem)
 
 <!--
