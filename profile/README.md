@@ -35,6 +35,8 @@
 [Начертательная геометрия, инженерная и компьютерная графика (черчение)](https://github.com/mireashik/drafting_2sem)
 
 ## 3 семестр
+[Вычислительная математика (вычмат)](https://github.com/mireashik/compmath_3sem)
+<br>
 [Программирование на языке Джава (Java)](https://github.com/mireashik/java_3sem)
 <br>
 [Архитектура вычислительных машин и систем (АВМиС), 3 семестр, РТУ МИРЭА](https://github.com/mireashik/acms_3sem)
