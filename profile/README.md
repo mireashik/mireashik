@@ -41,7 +41,9 @@
 <br>
 [Программирование на языке Джава (Java)](https://github.com/mireashik/java_3sem)
 <br>
-[Архитектура вычислительных машин и систем (АВМиС), 3 семестр, РТУ МИРЭА](https://github.com/mireashik/acms_3sem)
+[Алгоритмические основы обработки данных](https://github.com/mireashik/aood_3sem)
+<br>
+[Архитектура вычислительных машин и систем (АВМиС)](https://github.com/mireashik/acms_3sem)
 
 <!--
 **mireashik/mireashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
