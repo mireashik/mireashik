@@ -41,7 +41,7 @@
 <br>
 [Программирование на языке Джава (Java)](https://github.com/mireashik/java_3sem)
 <br>
-[Алгоритмические основы обработки данных](https://github.com/mireashik/aood_3sem)
+[Алгоритмические основы обработки данных (АООД)](https://github.com/mireashik/aood_3sem)
 <br>
 [Архитектура вычислительных машин и систем (АВМиС)](https://github.com/mireashik/acms_3sem)
 
