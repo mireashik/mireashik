@@ -47,5 +47,5 @@
 <br>
 [Архитектура вычислительных машин и систем (АВМиС)](https://github.com/mireashik/acms_3sem)
 
-## 4 Семестр
+## 4 семестр
 [Теория вероятности и математическая статистика](https://github.com/mireashik/teorver_4sem)
